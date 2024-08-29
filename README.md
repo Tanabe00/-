@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=0.5">
+	<p>HERBESSER-R100-100mg</p>
         <p>Each capsule contains 100mg of Diltiazem Hydrochloride</p>
 	<p>LOT VS437</p>
 	<p>MFG 10 07 24</p>
